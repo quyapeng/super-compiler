@@ -1,0 +1,17 @@
+{
+  "name": "super-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:quyapeng/super-compiler.git",
+  "author": "quyp <1095698022@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "dependencies": {
+    "vitest": "^0.23.4"
+  },
+  "devDependencies": {
+    "vitest": "^0.23.4"
+  }
+}
